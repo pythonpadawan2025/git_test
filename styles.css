@@ -28,6 +28,8 @@ nav a {
     color: white;
     text-decoration: none;
     background-color: black;
+}
 
-
+nav a:hover {
+    font-size: x-large;
 }
