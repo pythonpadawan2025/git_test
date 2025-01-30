@@ -6,8 +6,8 @@
 }
 
 body {
-    background: linear-gradient(rgb(5, 73, 5), black, rgb(5, 73, 5));
-    color: white;
+    background-color: beige;
+    color: black;
 }
 
 h1 {
